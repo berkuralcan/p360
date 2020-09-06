@@ -1,0 +1,17 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#vrview {
+    background-color: orangered;
+}
+
+iframe {
+    margin: 0px auto;
+}
